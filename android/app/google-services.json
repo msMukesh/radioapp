@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155375155615",
+    "project_id": "mukesh-radio",
+    "storage_bucket": "mukesh-radio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155375155615:android:2de9d67d60596b020da5aa",
+        "android_client_info": {
+          "package_name": "com.example.radioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155375155615-u6phvhl20m6dafbvkke741d020c4m8fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh8Sz_VBWR7WmYOiHKKoL8lk6p6mhdpcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155375155615-u6phvhl20m6dafbvkke741d020c4m8fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
